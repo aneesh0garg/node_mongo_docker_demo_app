@@ -1,3 +1,4 @@
 .env
 .DS_STORE
 app/node_mongo_docker_demo_app.code-workspace
+app/node_modules/
